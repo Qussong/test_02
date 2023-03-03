@@ -1,2 +1,2 @@
-# test_02
-vscode 연결
+###### made by Gihoon
+hello world ~! :)
